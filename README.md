@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, React Native**
 
-- 👨‍💻 All of my projects are available at [https://basliel-portfolio.netlify.app/](https://basliel-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://basliel-portfolio.netlify.app/](https://basliel-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN, Next js, flutter**
 
